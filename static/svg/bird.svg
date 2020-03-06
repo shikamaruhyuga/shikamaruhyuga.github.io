@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="920"
+   height="1000"
+   id="svg3182"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   version="1.0"
+   sodipodi:docname="bird.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="bird01.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3184">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 372.04724 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1052.3622 : 372.04724 : 1"
+       inkscape:persp3d-origin="526.18109 : 248.03149 : 1"
+       id="perspective3191" />
+    <clipPath
+       id="clipPath3228"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3230"
+         clip-rule="evenodd"
+         d="m 0,-0.3 842,0 L 842,595 0,595 0,-0.3 z" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective3220"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.21537294"
+     inkscape:cx="957.49165"
+     inkscape:cy="652.30798"
+     inkscape:current-layer="layer1"
+     id="namedview3186"
+     showgrid="false"
+     inkscape:window-width="1020"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3188">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.3622)">
+    <g
+       transform="matrix(2.2257821,0,0,-2.2257821,-254.83126,1173.4907)"
+       inkscape:label="Oiseau test 02"
+       id="g3222">
+      <g
+         id="g3224">
+        <g
+           clip-path="url(#clipPath3228)"
+           id="g3226">
+          <g
+             id="g3232">
+            <path
+               id="path3234"
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.27789116;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               d="m 513.34733,330.60041 c 27.4,-13.2 -33.2,31.2 -31.3,31.2 2,0 -21.7,15.1 -25.5,34 l 46.4,24.7 c 0,0 -123.9,-36 -121.1,-36 2.8,0 -52.9,-1.9 -52.9,-1.9 0,0 -39.2,20.9 -37.9,28.4 0.23608,1.29223 3.99298,3.31877 5.91124,7.44761 0.93221,2.00649 -0.76072,5.70453 0.70113,7.76291 1.13056,1.5919 7.08053,0.45402 8.0304,2.32236 1.42549,2.80386 0.50706,9.02093 2.26784,11.69523 1.34722,2.04619 6.20772,1.10489 7.30939,3.44888 2.17723,4.63246 0.76323,13.14037 3.29958,16.9837 2.03888,3.08952 5.90908,-0.0769 7.8907,2.96676 2.30907,3.54666 -0.41508,15.10691 1.65139,18.41799 3.22932,5.17431 7.62329,2.38202 9.72874,6.38141 4.06375,7.71924 5.16977,10.22212 1.50959,9.57315 -91.8,-16.1 -163.37091,-90.21274 -168.4,-113.5 -1.9,-14.2 16.1,-22.7 16.1,-22.7 0,0 -57.6,-17 -55.8,-43.5 l -9.4,-11.3 c 0,0 13.2,1.8 13.2,0.9 0,-0.9 52,-18 52,-18 0,0 2.3,-37.4 10.4,-49.1 82.81514,-102.21274 135.3,-182.599998 171.2,-180.699998 l -5.5784,32.544653 -8.01431,12.824205 2.51998,11.60332 -8.05368,6.86674 0.009,14.2399 -8.19517,13.08252 2.55936,13.38868 -9.46938,9.67515 2.65074,13.78132 -9.18809,8.03864 4.59699,13.37417 -9.52867,15.55206 9.37984,8.79955 -13.25062,14.25206 29.66216,51.27703 -11.3,11.4 c 0,0 39.7,24.5 56.7,20.8 0,0 116.6,0.2 119.2,-1 z"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="csccsccssssssssscccccscccccccccccccccccccccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
