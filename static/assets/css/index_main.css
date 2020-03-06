@@ -113,9 +113,10 @@ body{
     animation-delay: 230ms;
   }
   .text-e {
-    left: 7700px;
-    -webkit-animation-delay: 310ms;
-    animation-delay: 310ms;
+    display:none;
+    /* left: 7700px; */
+    /* -webkit-animation-delay: 310ms; */
+    /* animation-delay: 310ms; */
   }
 }
 
