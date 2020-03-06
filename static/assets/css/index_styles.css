@@ -9,11 +9,11 @@
 :root{
   /* colors */
   --grey: #8e8e8e;
-  --cream:#fccba3;
-  --primary: #5c328b;
-  --secondary:#4eb2eb;
-  --tertiary:#d63187;
-  --quaternery:#f6eb5b;
+  --cream: #fccba3;
+  --primary: #4eb2eb;
+  --secondary: #5c328b;
+  --tertiary: #d63187;
+  --quaternery: #f6eb5b;
 }
 
 body{
@@ -630,10 +630,12 @@ body{
 
 .section-heading{
   /* background-color: red; */
+  color: var(--cream);
   font-family: 'Allura';
   font-size: 50px;
 }
 .section-content{
+  color: var(--cream);
   text-align: left;
   font-size: 20px;
 }

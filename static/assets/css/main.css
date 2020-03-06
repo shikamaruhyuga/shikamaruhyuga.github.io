@@ -571,6 +571,12 @@ input[type="radio"]:focus + label:before {
 .image.fit img {
   width: 100%;
 }
+.label{
+  position: absolute;
+  transform: translate(0,-60px);
+  color: #ffffff;
+  font-size: 40px;
+}
 
 .image.main {
   display: block;
