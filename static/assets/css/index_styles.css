@@ -24,8 +24,8 @@ body{
 }
 
 .mountains{
-  width: 95%;
-  display: block;
+  width: 100%;
+  /* display: block; */
   margin-left: auto;
   margin-right: auto;
   transform: translateY(-20%);
@@ -656,11 +656,11 @@ body{
 {
 img.merch-1{
   width:60%;
-  transform: translate(-10%,-32%);
+  transform: translate(-10%,-22%);
 }
 img.merch-2{
   width:60%;
-  transform: translate(65%,-65%);
+  transform: translate(55%,-85%);
 }
 }
 @media only screen and (max-width:979px)
