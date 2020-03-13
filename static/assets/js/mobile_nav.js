@@ -12,3 +12,9 @@
     });
   }, false);
 })();
+
+let split = document.getElementsByClassName('split-2')[0];
+var isFirefox = typeof InstallTrigger !== 'undefined';
+if (isFirefox == true) {
+  split.classList.add("split-2-firefox");
+}

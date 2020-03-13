@@ -1,0 +1,10 @@
+1. Replace the credits in event-about pages.
+2. 'main.css'
+    .label.events-comp-fix {
+        transform: translate(0,-100px);
+        line-height: 1.2;
+    }
+3. Move label to <a> in event-list pages.
+4. "ZUGZUWANG" -> "ZUGZWANG"
+5. <a href="index.html" style="color: white;"><span>Go back to Homepage</span></a>
+6. Favicon on NISER Server

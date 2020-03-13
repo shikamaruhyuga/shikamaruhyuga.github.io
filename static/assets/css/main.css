@@ -571,6 +571,7 @@ input[type="radio"]:focus + label:before {
 .image.fit img {
   width: 100%;
 }
+
 .label{
   position: absolute;
   transform: translate(0,-60px);
@@ -672,6 +673,11 @@ ul.alt li {
   -webkit-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
+}
+
+.label.events-comp-fix {
+  transform: translate(0,-100px);
+  line-height: 1.2;
 }
 
 @media screen and (max-width: 736px) {
